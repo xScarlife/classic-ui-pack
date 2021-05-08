@@ -20,6 +20,7 @@ Due to the upload size restrictions I left out some AddOns that took to much spa
 1) Pawn Classic: https://www.curseforge.com/wow/addons/pawn
 2) Speedymount: https://www.curseforge.com/wow/addons/speedymount
 3) Auctionator: https://www.curseforge.com/wow/addons/auctionator-classicfix
+4) PhantomPlates: https://www.curseforge.com/wow/addons/phantomplates
 
 Thanks for reading, have fun!
 
