@@ -21,6 +21,7 @@ Due to the upload size restrictions I left out some AddOns that took to much spa
 2) Speedymount: https://www.curseforge.com/wow/addons/speedymount
 3) Auctionator: https://www.curseforge.com/wow/addons/auctionator-classicfix
 4) PhantomPlates: https://www.curseforge.com/wow/addons/phantomplates
+5) YaHT: https://github.com/Aviana/YaHT
 
 Thanks for reading, have fun!
 
