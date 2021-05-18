@@ -22,6 +22,7 @@ Due to the upload size restrictions I left out some AddOns that took to much spa
 3) Auctionator: https://www.curseforge.com/wow/addons/auctionator-classicfix
 4) PhantomPlates: https://www.curseforge.com/wow/addons/phantomplates
 5) YaHT: https://github.com/Aviana/YaHT
+6) Nova World Buffs: https://www.curseforge.com/wow/addons/nova-world-buffs
 
 Thanks for reading, have fun!
 
