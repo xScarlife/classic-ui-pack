@@ -20,9 +20,7 @@ Due to the upload size restrictions I left out some AddOns that took to much spa
 1) Pawn Classic: https://www.curseforge.com/wow/addons/pawn
 2) Questie: https://www.curseforge.com/wow/addons/questie
 3) Auctionator: https://www.curseforge.com/wow/addons/auctionator-classicfix
-4) PhantomPlates: https://www.curseforge.com/wow/addons/phantomplates
-5) YaHT: https://github.com/Macumbafeh/YaHT
-6) Nova World Buffs: https://www.curseforge.com/wow/addons/nova-world-buffs
+4) TSM Classic: https://www.tradeskillmaster.com/install
 
 Thanks for reading, have fun!
 
