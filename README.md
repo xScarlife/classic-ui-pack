@@ -1,5 +1,5 @@
-# Official xScarlife Gaming Classic UI Package (Not ElvUI version).
-Before you continue reading the installation instructions please note that this is the 'normal' version of my Classic interface which does not have ElvUI as the main interface. I also have a version where ElvUI is needed which can be found on the other Github page link, see Discord.
+# Official xScarlife Gaming Classic TBC UI Package (Not ElvUI version).
+Before you continue reading the installation instructions please note that this is the 'normal' version of my Classic TBC interface which does not have ElvUI as the main interface. I also have a version where ElvUI is needed which can be found on the other Github page link, see Discord.
 
 This package contains all the addons I use in-game. Please make sure you follow the steps below before you continue making any changes. If you have any problems during installation or you have additional questions, please do not hesitate to ask for help in the Discord server, me and my moderators are happy to help where we can.
 
@@ -18,10 +18,10 @@ Please note that you'll need to setup the addons how you like it. I cannot share
 Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
 
 1) Pawn Classic: https://www.curseforge.com/wow/addons/pawn
-2) Speedymount: https://www.curseforge.com/wow/addons/speedymount
+2) Questie: https://www.curseforge.com/wow/addons/questie
 3) Auctionator: https://www.curseforge.com/wow/addons/auctionator-classicfix
 4) PhantomPlates: https://www.curseforge.com/wow/addons/phantomplates
-5) YaHT: https://github.com/Aviana/YaHT
+5) YaHT: https://github.com/Macumbafeh/YaHT
 6) Nova World Buffs: https://www.curseforge.com/wow/addons/nova-world-buffs
 
 Thanks for reading, have fun!
