@@ -17,10 +17,9 @@ Please note that you'll need to setup the addons how you like it. I cannot share
 
 Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
 
-1) Pawn Classic: https://www.curseforge.com/wow/addons/pawn
-2) Questie: https://www.curseforge.com/wow/addons/questie
-3) Auctionator: https://www.curseforge.com/wow/addons/auctionator-classicfix
-4) TSM Classic: https://www.tradeskillmaster.com/install
+1) Questie: https://www.curseforge.com/wow/addons/questie
+2) Auctionator: https://www.curseforge.com/wow/addons/auctionator-classicfix
+3) TSM Classic: https://www.tradeskillmaster.com/install
 
 Thanks for reading, have fun!
 
