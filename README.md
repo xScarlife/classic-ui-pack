@@ -26,19 +26,20 @@ If you want to make sure you install up to date versions of the addons, here are
 8)	Farmhud: https://www.curseforge.com/wow/addons/farmhud
 9)	Leatrix Plus: https://www.curseforge.com/wow/addons/leatrix-plus-bcc
 10)	Leatrix Maps: https://www.curseforge.com/wow/addons/leatrix-maps-bcc
-11)	Nova World Buffs: https://www.curseforge.com/wow/addons/nova-world-buffs
-12)	oGlow: https://legacy-wow.com/tbc-addons/oglow/
-13)	Pawn: https://www.curseforge.com/wow/addons/pawn
-14)	Phantom Plates: https://www.curseforge.com/wow/addons/phantomplates
-15)	Quartz: https://www.curseforge.com/wow/addons/quartz
-16)	Questie: https://www.curseforge.com/wow/addons/questie
-17)	Tiny Tooltip: https://github.com/laytya/TBC-Classic
-18)	Titan Panel: https://www.curseforge.com/wow/addons/titan-panel-classic
-19)	TomTom: https://www.curseforge.com/wow/addons/tomtom
-20)	Townsfolk Tracker: https://www.curseforge.com/wow/addons/townsfolk-tracker
-21)	TSM: https://www.tradeskillmaster.com/install
-22)	Weakaura’s: https://www.curseforge.com/wow/addons/weakauras-2
-23)	Xtolevel: https://www.curseforge.com/wow/addons/xto-level
+11)	Lorti-UI: https://github.com/Pridity/Lorti-UI-Classic
+12)	Nova World Buffs: https://www.curseforge.com/wow/addons/nova-world-buffs
+13)	oGlow: https://legacy-wow.com/tbc-addons/oglow/
+14)	Pawn: https://www.curseforge.com/wow/addons/pawn
+15)	Phantom Plates: https://www.curseforge.com/wow/addons/phantomplates
+16)	Quartz: https://www.curseforge.com/wow/addons/quartz
+17)	Questie: https://www.curseforge.com/wow/addons/questie
+18)	Tiny Tooltip: https://github.com/laytya/TBC-Classic
+19)	Titan Panel: https://www.curseforge.com/wow/addons/titan-panel-classic
+20)	TomTom: https://www.curseforge.com/wow/addons/tomtom
+21)	Townsfolk Tracker: https://www.curseforge.com/wow/addons/townsfolk-tracker
+22)	TSM: https://www.tradeskillmaster.com/install
+23)	Weakaura’s: https://www.curseforge.com/wow/addons/weakauras-2
+24)	Xtolevel: https://www.curseforge.com/wow/addons/xto-level
 
 Thanks for reading, have fun!
 
