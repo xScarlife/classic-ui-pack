@@ -15,11 +15,30 @@ Once you dragged and dropped the desired addon folders from the .rar file to you
 
 Please note that you'll need to setup the addons how you like it. I cannot share my settings but if you need help, don't hesitate to ask.
 
-Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
-
-1) Questie: https://www.curseforge.com/wow/addons/questie
-2) Auctionator: https://www.curseforge.com/wow/addons/auctionator-classicfix
-3) TSM Classic: https://www.tradeskillmaster.com/install
+If you want to make sure you install up to date versions of the addons, here are the links. Make sure you download the TBC versions of these addons:
+1)	Atlasloot: https://www.curseforge.com/wow/addons/atlaslootclassic
+2)	Aux: https://www.curseforge.com/wow/addons/aux
+3)	Bagnon: https://www.curseforge.com/wow/addons/bagnon
+4)	Bartender 4: https://www.curseforge.com/wow/addons/bartender4
+5)	ClassicLFG: https://www.curseforge.com/wow/addons/classiclfg
+6)	DBM: https://www.curseforge.com/wow/addons/deadly-boss-mods
+7)	Details: https://www.curseforge.com/wow/addons/details
+8)	Farmhud: https://www.curseforge.com/wow/addons/farmhud
+9)	Leatrix Plus: https://www.curseforge.com/wow/addons/leatrix-plus-bcc
+10)	Leatrix Maps: https://www.curseforge.com/wow/addons/leatrix-maps-bcc
+11)	Nova World Buffs: https://www.curseforge.com/wow/addons/nova-world-buffs
+12)	oGlow: https://legacy-wow.com/tbc-addons/oglow/
+13)	Pawn: https://www.curseforge.com/wow/addons/pawn
+14)	Phantom Plates: https://www.curseforge.com/wow/addons/phantomplates
+15)	Quartz: https://www.curseforge.com/wow/addons/quartz
+16)	Questie: https://www.curseforge.com/wow/addons/questie
+17)	Tiny Tooltip: https://github.com/laytya/TBC-Classic
+18)	Titan Panel: https://www.curseforge.com/wow/addons/titan-panel-classic
+19)	TomTom: https://www.curseforge.com/wow/addons/tomtom
+20)	Townsfolk Tracker: https://www.curseforge.com/wow/addons/townsfolk-tracker
+21)	TSM: https://www.tradeskillmaster.com/install
+22)	Weakaura’s: https://www.curseforge.com/wow/addons/weakauras-2
+23)	Xtolevel: https://www.curseforge.com/wow/addons/xto-level
 
 Thanks for reading, have fun!
 
