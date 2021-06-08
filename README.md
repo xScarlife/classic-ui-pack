@@ -26,7 +26,7 @@ If you want to make sure you install up to date versions of the addons, here are
 8)	Farmhud: https://www.curseforge.com/wow/addons/farmhud
 9)	Leatrix Plus: https://www.curseforge.com/wow/addons/leatrix-plus-bcc
 10)	Leatrix Maps: https://www.curseforge.com/wow/addons/leatrix-maps-bcc
-11)	Lorti-UI: https://github.com/Pridity/Lorti-UI-Classic
+11)	Lorti-UI: https://www.curseforge.com/wow/addons/lorti-ui-tbc
 12)	Nova World Buffs: https://www.curseforge.com/wow/addons/nova-world-buffs
 13)	oGlow: https://legacy-wow.com/tbc-addons/oglow/
 14)	Pawn: https://www.curseforge.com/wow/addons/pawn
