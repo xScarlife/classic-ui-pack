@@ -1,4 +1,6 @@
 # Official xScarlife Gaming Classic TBC UI Package (Not ElvUI version).
+![Classic_UI_TBC_xScarlife](https://user-images.githubusercontent.com/24465574/180671231-526142ba-aee3-4421-b672-2eeebe30e8bb.png)
+
 Before you continue reading the installation instructions please note that this is the 'normal' version of my Classic TBC interface which does not have ElvUI as the main interface. I also have a version where ElvUI is needed which can be found on the other Github page link, see Discord.
 
 Please note that you'll need to setup the addons how you like it. I cannot share my settings but if you need help, don't hesitate to ask.
