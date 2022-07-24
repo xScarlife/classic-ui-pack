@@ -7,7 +7,8 @@ This package contains all the addons I use in-game. Please make sure you follow 
 
 If you don't know how to install addons manually, please watch my video where I teach you how to do that by clicking this link: https://youtu.be/huUvI7O-6lE?t=83. Instead of choosing the 'retail' folder you choose the 'classic' folder. Just FYI.
 
-Installation: Open the .rar file and this will contain all the addons I use. You can simply drag and drop the folder over to your WoW Classic addons folder mostly located on your main C: drive like so, C:\World of Warcraft_classic_\Interface\AddOns.
+## Installation
+Open the .rar file and this will contain all the addons I use. You can simply drag and drop the folder over to your WoW Classic addons folder mostly located on your main C: drive like so, C:\World of Warcraft_classic_\Interface\AddOns.
 
 When your addons are installed, navigate to C:\World of Warcraft\_classic_ (or where your game is installed) and paste in the 'Fonts' folder. This will install the fonts used for the interface.
 
