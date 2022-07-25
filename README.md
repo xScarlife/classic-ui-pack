@@ -49,13 +49,13 @@ If you want to make sure you install up to date versions of the addons, here are
 ### Copy these settings for Bar 1, Bar 2 and Bar 3.
 ![bar_1](https://user-images.githubusercontent.com/24465574/180671494-9985891e-1b03-4c70-8c90-c2307b461585.png)
 
-Copy these settings for Bar 4 and Bar 5. Disable Bars 6 - 7 - 8 - 9 and 10.
+### Copy these settings for Bar 4 and Bar 5. Disable Bars 6 - 7 - 8 - 9 and 10.
 ![bar_4](https://user-images.githubusercontent.com/24465574/180671516-11c4203f-1576-4ecf-9462-047eb112a0a2.png)
 
-Copy these settings for the Micro Menu.
+### Copy these settings for the Micro Menu.
 ![micro_menu](https://user-images.githubusercontent.com/24465574/180671535-fc36f77b-90de-4586-8635-eda938d8bb4a.png)
 
-Copy these settings for the Pet Bar.
+### Copy these settings for the Pet Bar.
 ![pet_bar](https://user-images.githubusercontent.com/24465574/180671549-731dead9-783d-43e1-9e8a-eb26145d69d3.png)
 
 
