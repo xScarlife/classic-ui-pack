@@ -62,6 +62,12 @@ If you want to make sure you install up to date versions of the addons, here are
 ### Complete overview for positioning the bars.
 ![position](https://user-images.githubusercontent.com/24465574/180671638-650bbde8-1cb7-4e7f-b901-e03ee749b3f1.png)
 
+## Questions
+### Where do I put the 'Fonts' folder?
+When your addons are installed, navigate to C:\World of Warcraft_classic_ (or where your game is installed) and paste in the 'Fonts' folder. This will install the fonts used for the interface.
+![Fonts](https://user-images.githubusercontent.com/24465574/180671716-72645c25-b3cc-4113-803b-b66737d9dd10.png)
+
+
 
 Thanks for reading, have fun!
 
