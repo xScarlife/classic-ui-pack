@@ -58,6 +58,10 @@ If you want to make sure you install up to date versions of the addons, here are
 ### Copy these settings for the Pet Bar.
 ![pet_bar](https://user-images.githubusercontent.com/24465574/180671549-731dead9-783d-43e1-9e8a-eb26145d69d3.png)
 
+## Bartender 4 Bar Overview
+### Complete overview for positioning the bars.
+![position](https://user-images.githubusercontent.com/24465574/180671638-650bbde8-1cb7-4e7f-b901-e03ee749b3f1.png)
+
 
 Thanks for reading, have fun!
 
