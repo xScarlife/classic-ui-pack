@@ -20,30 +20,30 @@ Extra: If you can't open .rar files, you can download WinRAR here: https://www.w
 Once you dragged and dropped the desired addon folders from the .rar file to your AddOns folder you can simply close all windows and launch your game. When on the character selection screen, please go to the lower left corner and select 'AddOns'. Make sure that all the addons you want to load in-game are checked or this can cause problems if you are missing one.
 
 If you want to make sure you install up to date versions of the addons, here are the links. Make sure you download the TBC versions of these addons:
-1)	Atlasloot: https://www.curseforge.com/wow/addons/atlaslootclassic
-2)	Aux: https://www.curseforge.com/wow/addons/aux
-3)	Bagnon: https://www.curseforge.com/wow/addons/bagnon
-4)	Bartender 4: https://www.curseforge.com/wow/addons/bartender4
-5)	ClassicLFG: https://www.curseforge.com/wow/addons/classiclfg
-6)	DBM: https://www.curseforge.com/wow/addons/deadly-boss-mods
-7)	Details: https://www.curseforge.com/wow/addons/details
-8)	Farmhud: https://www.curseforge.com/wow/addons/farmhud
-9)	Leatrix Plus: https://www.curseforge.com/wow/addons/leatrix-plus-bcc
-10)	Leatrix Maps: https://www.curseforge.com/wow/addons/leatrix-maps-bcc
-11)	Lorti-UI: https://www.curseforge.com/wow/addons/lorti-ui-tbc
-12)	Nova World Buffs: https://www.curseforge.com/wow/addons/nova-world-buffs
-13)	oGlow: https://legacy-wow.com/tbc-addons/oglow/
-14)	Pawn: https://www.curseforge.com/wow/addons/pawn
-15)	Phantom Plates: https://www.curseforge.com/wow/addons/phantomplates
-16)	Quartz: https://www.curseforge.com/wow/addons/quartz
-17)	Questie: https://www.curseforge.com/wow/addons/questie
-18)	Tiny Tooltip: https://github.com/laytya/TBC-Classic
-19)	Titan Panel: https://www.curseforge.com/wow/addons/titan-panel-classic
-20)	TomTom: https://www.curseforge.com/wow/addons/tomtom
-21)	Townsfolk Tracker: https://www.curseforge.com/wow/addons/townsfolk-tracker
-22)	TSM: https://www.tradeskillmaster.com/install
-23)	Weakaura’s: https://www.curseforge.com/wow/addons/weakauras-2
-24)	Xtolevel: https://www.curseforge.com/wow/addons/xto-level
+1)	[Atlasloot](https://www.curseforge.com/wow/addons/atlaslootclassic)
+2)	[Aux](https://www.curseforge.com/wow/addons/aux)
+3)	[Bagnon](https://www.curseforge.com/wow/addons/bagnon)
+4)	[Bartender 4](https://www.curseforge.com/wow/addons/bartender4)
+5)	[ClassicLFG](https://www.curseforge.com/wow/addons/classiclfg)
+6)	[DBM](https://www.curseforge.com/wow/addons/deadly-boss-mods)
+7)	[Details](https://www.curseforge.com/wow/addons/details)
+8)	[Farmhud](https://www.curseforge.com/wow/addons/farmhud)
+9)	[Leatrix Plus](https://www.curseforge.com/wow/addons/leatrix-plus-bcc)
+10)	[Leatrix Maps](https://www.curseforge.com/wow/addons/leatrix-maps-bcc)
+11)	[Lorti-UI](https://www.curseforge.com/wow/addons/lorti-ui-tbc)
+12)	[Nova World Buffs](https://www.curseforge.com/wow/addons/nova-world-buffs)
+13)	[oGlow](https://legacy-wow.com/tbc-addons/oglow/)
+14)	[Pawn](https://www.curseforge.com/wow/addons/pawn)
+15)	[Phantom Plates](https://www.curseforge.com/wow/addons/phantomplates)
+16)	[Quartz](https://www.curseforge.com/wow/addons/quartz)
+17)	[Questie](https://www.curseforge.com/wow/addons/questie)
+18)	[Tiny Tooltip](https://github.com/laytya/TBC-Classic)
+19)	[Titan Panel](https://www.curseforge.com/wow/addons/titan-panel-classic)
+20)	[TomTom](https://www.curseforge.com/wow/addons/tomtom)
+21)	[Townsfolk Tracker](https://www.curseforge.com/wow/addons/townsfolk-tracker)
+22)	[TSM](https://www.tradeskillmaster.com/install)
+23)	[Weakaura’s](https://www.curseforge.com/wow/addons/weakauras-2)
+24)	[Xtolevel](https://www.curseforge.com/wow/addons/xto-level)
 
 Thanks for reading, have fun!
 
