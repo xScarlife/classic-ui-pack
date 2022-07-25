@@ -67,6 +67,9 @@ If you want to make sure you install up to date versions of the addons, here are
 When your addons are installed, navigate to C:\World of Warcraft_classic_ (or where your game is installed) and paste in the 'Fonts' folder. This will install the fonts used for the interface.
 ![Fonts](https://user-images.githubusercontent.com/24465574/180671716-72645c25-b3cc-4113-803b-b66737d9dd10.png)
 
+### Where do I find your Details Import string?
+This can be found on the Github page as a text file that you can copy over.
+![classic_details](https://user-images.githubusercontent.com/24465574/180671790-cbb7ea32-55ab-46f2-897e-5aab6f164769.png)
 
 
 Thanks for reading, have fun!
