@@ -46,7 +46,7 @@ If you want to make sure you install up to date versions of the addons, here are
 24)	[Xtolevel](https://www.curseforge.com/wow/addons/xto-level)
 
 ## Bartender 4 Settings
-Copy these settings for Bar 1, Bar 2 and Bar 3.
+### Copy these settings for Bar 1, Bar 2 and Bar 3.
 ![bar_1](https://user-images.githubusercontent.com/24465574/180671494-9985891e-1b03-4c70-8c90-c2307b461585.png)
 
 Copy these settings for Bar 4 and Bar 5. Disable Bars 6 - 7 - 8 - 9 and 10.
