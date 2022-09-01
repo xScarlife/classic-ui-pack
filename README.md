@@ -19,7 +19,7 @@ Extra: If you can't open .rar files, you can download WinRAR here: https://www.w
 
 Once you dragged and dropped the desired addon folders from the .rar file to your AddOns folder you can simply close all windows and launch your game. When on the character selection screen, please go to the lower left corner and select 'AddOns'. Make sure that all the addons you want to load in-game are checked or this can cause problems if you are missing one.
 
-If you want to make sure you install up to date versions of the addons, here are the links. Make sure you download the TBC versions of these addons:
+If you want to make sure you install up to date versions of the addons, here are the links. Make sure you download the Wotlk versions of these addons:
 1)	[Atlasloot](https://www.curseforge.com/wow/addons/atlaslootclassic)
 2)	[Aux](https://www.curseforge.com/wow/addons/aux)
 3)	[Bagnon](https://www.curseforge.com/wow/addons/bagnon)
