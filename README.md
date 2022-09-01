@@ -1,4 +1,4 @@
-# Official xScarlife Gaming Classic TBC UI Package (Not ElvUI version).
+# Official xScarlife Gaming Classic wotlk UI Package (Not ElvUI version).
 ![Classic_UI_TBC_xScarlife](https://user-images.githubusercontent.com/24465574/180671231-526142ba-aee3-4421-b672-2eeebe30e8bb.png)
 ### You are not allowed to share or upload this profile to other sources or claim it to be your own without the creator's permission.
 
