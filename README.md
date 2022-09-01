@@ -32,7 +32,7 @@ If you want to make sure you install up to date versions of the addons, here are
 10)	[Leatrix Maps](https://www.curseforge.com/wow/addons/leatrix-maps-bcc)
 11)	[Lorti-UI](https://www.curseforge.com/wow/addons/lorti-ui-tbc)
 12)	[Nova World Buffs](https://www.curseforge.com/wow/addons/nova-world-buffs)
-13)	[oGlow](https://legacy-wow.com/tbc-addons/oglow/)
+13)	[oGlow](https://www.curseforge.com/wow/addons/oglowclassic)
 14)	[Pawn](https://www.curseforge.com/wow/addons/pawn)
 15)	[Phantom Plates](https://www.curseforge.com/wow/addons/phantomplates)
 16)	[Quartz](https://www.curseforge.com/wow/addons/quartz)
