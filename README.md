@@ -37,7 +37,7 @@ If you want to make sure you install up to date versions of the addons, here are
 15)	[Phantom Plates](https://www.curseforge.com/wow/addons/phantomplates)
 16)	[Quartz](https://www.curseforge.com/wow/addons/quartz)
 17)	[Questie](https://www.curseforge.com/wow/addons/questie)
-18)	[Tiny Tooltip](https://github.com/laytya/TBC-Classic)
+18)	[Tiny Tooltip](https://www.curseforge.com/wow/addons/tinytooltip)
 19)	[Titan Panel](https://www.curseforge.com/wow/addons/titan-panel-classic)
 20)	[TomTom](https://www.curseforge.com/wow/addons/tomtom)
 21)	[Townsfolk Tracker](https://www.curseforge.com/wow/addons/townsfolk-tracker)
