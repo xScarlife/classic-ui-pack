@@ -1,4 +1,7 @@
 # Official xScarlife Gaming Classic Wotlk UI Package (Not ElvUI version).
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY_LsfkMQS--TVMvGl90rNA?style=social)
+![Twitch Status](https://img.shields.io/twitch/status/xscarlife?style=social)
+
 ![Classic_UI_TBC_xScarlife](https://user-images.githubusercontent.com/24465574/180671231-526142ba-aee3-4421-b672-2eeebe30e8bb.png)
 ### You are not allowed to share or upload this profile to other sources or claim it to be your own without the creator's permission.
 
