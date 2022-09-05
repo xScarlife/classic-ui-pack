@@ -47,6 +47,8 @@ If you want to make sure you install up to date versions of the addons, here are
 22)	[TSM](https://www.tradeskillmaster.com/install)
 23)	[Weakaura’s](https://www.curseforge.com/wow/addons/weakauras-2)
 24)	[Xtolevel](https://www.curseforge.com/wow/addons/xto-level)
+25) [Routes](https://www.curseforge.com/wow/addons/routes)
+26) [Routes Import&Export](https://www.curseforge.com/wow/addons/routes-import-export)
 
 ## Bartender 4 Settings
 ### Copy these settings for Bar 1, Bar 2 and Bar 3.
